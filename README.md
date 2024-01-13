@@ -26,8 +26,8 @@ Flattening represents a critical step in data preparation for U-Net. The reshapi
 🔍 **Otsu Thresholding for Background-Foreground Differentiation:**
 Within the pre-processing pipeline, Otsu's thresholding technique from OpenCV dynamically determines the optimal threshold, effectively distinguishing between background and foreground pixels. This adaptive thresholding method significantly enhances the accuracy of subsequent segmentation by providing a data-driven approach to differentiate between the two classes.
 
-📈 **Mathematical Equation for Otsu Thresholding:**
-\[ T = \arg\max\left[\sigma_B^2(t)\cdot\sigma_F^2(t)\right] \]
+![image](https://github.com/soumya1107/Image-Segmentation/assets/64662510/ef7feaa7-7bf4-4c4d-a79b-2f6570132dd9)
+
 
 In this equation, \( T \) represents the optimal threshold, while \( \sigma_B^2(t) \) and \( \sigma_F^2(t) \) denote the variances of the background and foreground, respectively, at threshold \( t \).
 
