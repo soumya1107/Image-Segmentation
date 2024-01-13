@@ -31,6 +31,16 @@ Within the pre-processing pipeline, Otsu's thresholding technique from OpenCV dy
 
 In this equation, \( T \) represents the optimal threshold, while \( \sigma_B^2(t) \) and \( \sigma_F^2(t) \) denote the variances of the background and foreground, respectively, at threshold \( t \).
 
+![image](https://github.com/soumya1107/Image-Segmentation/assets/64662510/e9b37733-0773-4c53-982b-9b21f50a966e)
+
+
+🚀The (Background + Foreground) plotting for the Otsu thresholding method
+![image](https://github.com/soumya1107/Image-Segmentation/assets/64662510/d4675a19-578a-4c64-8b98-c71842d63c8f)
+
+🚀The Histogram plotting for Otsu Thresholding
+![image](https://github.com/soumya1107/Image-Segmentation/assets/64662510/29265b1f-aee0-4aa4-9f65-72ac85599536)
+
+
 Feel free to delve into the code, contribute to the project, and engage in the fascinating world of nuanced image segmentation! Your feedback and collaboration are invaluable. 🙌
 
 🔗 **Dependencies:**
