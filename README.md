@@ -54,4 +54,4 @@ Feel free to delve into the code, contribute to the project, and engage in the f
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 - [Otsu's Method for Threshold Selection](https://ieeexplore.ieee.org/document/4310076)
 
-Happy Segmentation! 🖼️✂️
+Thank you for stopping by, looking to hear from you and imrpove! 
