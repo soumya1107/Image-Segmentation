@@ -46,7 +46,11 @@ Feel free to delve into the code, contribute to the project, and engage in the f
 🔗 **Dependencies:**
 - OpenCV
 - TensorFlow
-- ... (List any additional dependencies)
+- U-net mobile architecture
+- Otsu Thresholding algorithm
+- Numpy
+- Pandas
+- Matplotlib
 
 📄 **License:** [MIT License](LICENSE)
 
